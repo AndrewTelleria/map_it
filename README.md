@@ -7,5 +7,5 @@ Make sure python 3 is installed.
 
 `cd /map_it`
 
-run 
-`python3 mapIt.py 870 Valencia St, San Francisco, CA 94110`
+Run
+`$ python3 mapIt.py 870 Valencia St, San Francisco, CA 94110`
