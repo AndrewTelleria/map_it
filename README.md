@@ -3,9 +3,8 @@ Python webscraper that takes in an address and opens up google maps with the inp
 
 Make sure python 3 is installed.
 
-`git clone https://github.com/AndrewTelleria/map_it.git`
+`$ git clone https://github.com/AndrewTelleria/map_it.git`
 
-`cd /map_it`
+`$ cd /map_it`
 
-Run
 `$ python3 mapIt.py 870 Valencia St, San Francisco, CA 94110`
