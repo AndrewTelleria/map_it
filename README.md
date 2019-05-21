@@ -1,5 +1,5 @@
 # map_it
-Python webscraper that takes in an address and opens up google maps with the input address.
+Python script that takes in an address and opens up google maps with the input address.
 
 Make sure python 3 is installed.
 
